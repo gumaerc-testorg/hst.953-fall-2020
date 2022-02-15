@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-953-collaborative-data-science-for-healthcare-fall-2020/952a23c7a63a0e40311abc58120413db_HST-953f20-th.jpg
+file: /media/courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/952a23c7a63a0e40311abc58120413db_HST-953f20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Big data is proliferating in diverse forms within the field of healthcare,
@@ -10,6 +10,8 @@ image_metadata:
   credit: ''
   image-alt: Two hands holding a computer screen showing a silhouette of a human body,
     a line chart, and a data field.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: HST-953f20-th.jpg
 uid: 952a23c7-a63a-0e40-311a-bc58120413db
