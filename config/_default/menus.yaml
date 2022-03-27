@@ -3,7 +3,7 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
-- identifier: external-c2141a47ed304140a0ddc6b9268c9092
+- identifier: external-736dd73aafe2456187000b96abd3456a
   name: Online Publication
   url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+HST.953x+3T2020/about
   weight: 1000
