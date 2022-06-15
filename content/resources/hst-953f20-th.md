@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/952a23c7a63a0e40311abc58120413db_HST-953f20-th.jpg
+file: /courses/hst-953-collaborative-data-science-for-healthcare-fall-2020/952a23c7a63a0e40311abc58120413db_HST-953f20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Big data is proliferating in diverse forms within the field of healthcare,
